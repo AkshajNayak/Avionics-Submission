@@ -1,6 +1,6 @@
 # Avionics-Submission
 <h1 align="center">Hi !, I'm AKSHAJ NAYAK</h1>
-<h3 align="center">THIS IS MY AVIONICS SUBMISSION. HOPE YOU TAKE ME IN</h3>
+<h3 align="center">THIS IS MY AVIONICS SUBMISSION.</h3>
 
 <h2 align="center">🔭 I’m currently working for AVIONICS INDUCTIONS  𖥂</h2>
 
